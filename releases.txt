@@ -7,3 +7,5 @@ v2.4.0 c ircbot/c/releases.txt *
 v2.4.0 rs ircbot/rs/releases.txt *
 v2.4.1 c ircbot/c/releases.txt *
 v2.4.1 rs ircbot/rs/releases.txt *
+v2.4.2 c ircbot/c/releases.txt *
+v2.4.2 rs ircbot/rs/releases.txt *
