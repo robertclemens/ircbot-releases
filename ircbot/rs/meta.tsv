@@ -1,9 +1,12 @@
-# version	date	src_deps	min_from  (tab-separated; written by tools/mkreleases.py, read by tools/mkmanifest.py)
+# version	date	src_deps	min_from	static_libs	commit  (tab-separated; written by tools/mkreleases.py, read by tools/mkmanifest.py)
 # src_deps applies to source rows only; binary rows always carry 'none'.
-v2.3.0	2026-09-12	cargo	*
-v2.4.0	2026-09-23	cargo	*
-v2.4.1	2026-09-23	cargo	*
-v2.4.2	2026-09-23	cargo	*
-v2.4.3	2026-09-23	cargo	*
-v2.4.4	2026-09-26	cargo	*
-v2.4.5	2026-09-26	cargo	*
+# static_libs: what the static build linked in (C: the Alpine release and package versions; Rust: rustc), '-' = not recorded.
+# commit: the source commit built (mkreleases.py --version uses it when the source repo has no v<version> tag), '-' = not recorded.
+v2.3.0	2026-09-12	cargo	*	rustc=1.98.0	737142c6793009ceb0a7729e5c2385716c494f43
+v2.4.0	2026-09-23	cargo	*	-	3c0016091ba4cb96466a8d403ef28f9632b2a611
+v2.4.1	2026-09-23	cargo	*	-	cfe7e474d145ef808b4b84bee24014812cd7dc7e
+v2.4.2	2026-09-23	cargo	*	-	a6ed61fcf8eb887390b54e7ff55710c4b3b0584e
+v2.4.3	2026-09-23	cargo	*	-	b95d2f65b4344f5b512d55c84eccd503fc1e1d82
+v2.4.4	2026-09-26	cargo	*	-	c433594aab4424f7477bb6aeb75ce8e817ab9317
+v2.4.5	2026-09-26	cargo	*	-	cfa5b981a5c8f4f96eb9faa78f60d66d6da56f29
+v2.4.6	2026-10-07	cargo	*	rustc=1.98.0	7eaa5bcbb09333c8b621d0d92debe1585aa99025
