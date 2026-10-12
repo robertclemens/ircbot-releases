@@ -10,3 +10,4 @@ v2.4.3	2026-09-23	gcc,make,libssl,libcurl	*	-	776b32a0ab480275f6ff25eeb570227024
 v2.4.4	2026-09-26	gcc,make,libssl,libcurl	*	-	d61e17b8cdc404c9a358cdcb62987bbeb9b2d94c
 v2.4.5	2026-09-26	gcc,make,libssl,libcurl	*	-	ab09d118776e3b8f96b2ff56386835797a641a3b
 v2.4.6	2026-10-07	gcc,make,libssl,libcurl	*	alpine=3.24.1,brotli=1.2.0-r1,curl=8.22.0-r0,libidn2=2.3.8-r0,libpsl=0.21.5-r3,libunistring=1.4.2-r0,musl=1.2.6-r2,nghttp2=1.69.0-r0,nghttp3=1.15.0-r0,openssl=3.5.8-r0,zlib=1.3.2-r0,zstd=1.5.7-r2	30c02d1909483551ad187baa70ec4c4869114e10
+v2.4.7	2026-10-12	gcc,make,libssl,libcurl	*	alpine=3.24.2,brotli=1.2.0-r1,curl=8.22.0-r0,libidn2=2.3.8-r0,libpsl=0.21.5-r3,libunistring=1.4.2-r0,musl=1.2.6-r2,nghttp2=1.70.0-r0,nghttp3=1.15.0-r0,openssl=3.5.9-r0,zlib=1.3.2-r1,zstd=1.5.7-r2	724acaf0865cb9a6b88953755f91ce71011bd3fa

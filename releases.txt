@@ -18,3 +18,5 @@ v2.4.5 c ircbot/c/releases.txt *
 v2.4.5 rs ircbot/rs/releases.txt *
 v2.4.6 c ircbot/c/releases.txt *
 v2.4.6 rs ircbot/rs/releases.txt *
+v2.4.7 c ircbot/c/releases.txt *
+v2.4.7 rs ircbot/rs/releases.txt *
